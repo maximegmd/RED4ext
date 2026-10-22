@@ -4,7 +4,7 @@ option(RED4EXT_USE_PCH "" ON)
 FetchContent_Declare(
   RED4ext.SDK
   GIT_REPOSITORY  https://github.com/maximegmd/RED4ext.SDK.git
-  GIT_TAG         68f7473af0484a0b299a6f6d918c33330fd59e57
+  GIT_TAG         fd1867297719e26c6fbd54734c7ce82448d32c6f
 )
 FetchContent_MakeAvailable(RED4ext.SDK)
 
